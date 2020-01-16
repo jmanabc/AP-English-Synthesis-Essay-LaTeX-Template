@@ -1,0 +1,125 @@
+For more accurate headings uncomment lines 5, 10, 13, comment out lines 12 and 16 - 24, and uncomment lines 36, 67-72 and their equivelents on each page.
+\documentclass[12pt, letterpaper]{article}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{geometry}
+%\geometry{top = 8mm}
+
+\geometry{left = 36pt}
+\geometry{right = 36pt}
+%\geometry{bottom = 5mm}
+
+\usepackage{fancyhdr}
+%\pagestyle{empty}
+\pagestyle{fancy}
+\headheight=15pt
+\chead{\textbf{2020 AP\textsuperscript{\tiny{\circledR{}}} ENGLISH LANGUAGE AND COMPOSITION FREE-RESPONSE QUESTIONS}}
+\cfoot{\centering
+    © 2020 John D. Wilkes.\\
+    \vspace{10pt}
+    \hfill
+    {\textbf{GO ON TO NEXT PAGE}}\\
+    \vspace{10pt}
+    -\textbf{\textbf{\thepage-}}}
+    \renewcommand{\headrulewidth}{0pt}
+    \renewcommand{\headrulewidth}{0pt}
+\usepackage[usestackEOL]{stackengine}
+\usepackage{amsfonts}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{hanging}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{center}
+    %\textbf{2020 AP\textsuperscript{\tiny{\circledR{}}} ENGLISH LANGUAGE AND COMPOSITION FREE-RESPONSE QUESTIONS}\\
+    \vspace{10 mm}
+    ENGLISH LANGUAGE AND COMPOSITION\\
+    SECTION II\\
+    Total Time—2 hours, 15 minutes\\
+    \vspace{10 mm}
+    \textbf{Question I}\\
+    \vspace{5 mm}
+    \textbf{Suggested reading and writing time—55 minutes.}\\
+    \textbf{It is suggested that you spend 15 minutes reading the question, analyzing and evaluating the sources, and 40 minutes writing your response.}\\
+    \textbf{Note: you may begin writing your response before the reading period is over.}\\
+    \vspace{5 mm}
+    (This question counts for one-third of the total essay section score.)\\
+    \vspace{5 mm}
+\end{center}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies arcu eros, vitae ultrices erat mattis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non nibh nulla. Etiam eu nibh tellus. Sed cursus venenatis elementum. Fusce vel venenatis felis. Suspendisse in suscipit augue. Donec molestie accumsan nisi nec congue. Praesent eu sem sapien. Morbi a lectus et lacus pulvinar tincidunt vitae nec diam.\\
+\vspace{1mm}\\
+Cras faucibus tellus non orci porta accumsan. Cras in ultrices urna. Vivamus scelerisque massa quis sodales ultricies. Morbi viverra volutpat lorem ac aliquet. Aenean consectetur magna ante, sit amet dapibus arcu placerat laoreet. Pellentesque ultrices lacinia dui id consectetur. Maecenas volutpat, ex at placerat aliquam, lorem sem lacinia urna, iaculis dictum nisl nulla dapibus odio.\\
+\vspace{1mm}\\
+Vestibulum in lacus hendrerit, semper enim a, tristique ex. Curabitur lectus sapien, placerat vitae lectus vitae, rutrum elementum neque. Quisque sit amet erat tincidunt nisl blandit aliquam. Nullam mauris diam, ornare ut magna vitae, accumsan semper diam. Nullam bibendum eros ut ante faucibus imperdiet. In euismod tortor condimentum, vulputate velit sit amet, ornare nunc. Aliquam scelerisque tincidunt massa, nec tristique lacus feugiat vitae. Sed non ex vitae lorem eleifend auctor.\\
+\vspace{1mm}\\
+\begin{tabular}{@{}c c}
+Source A & (Author A)\\
+Source B & (Author B)\\
+Source C & (Author C)\\
+Source D & (Author D)\\
+Source E & (Author D)\\
+Source F & (Author F)\\
+
+\end{tabular}
+%\vfill
+%\begin{center}
+ %   © 2020 John D. Wilkes.\\
+  %  \vspace{20pt}
+   % -\textbf{\thepage}-
+%\end{center}
+{\newpage}
+\centering
+ %   \textbf{2020 AP\textsuperscript{\tiny{\circledR{}}} ENGLISH LANGUAGE AND COMPOSITION FREE-RESPONSE QUESTIONS}\\
+%lines 68-72 implement the citation and should be used with every new source.
+    \vspace{5mm}
+    {\fbox{\parbox{263pt}{\centering \textbf{Source A}\\ \vspace{2.5mm} \justifying \hangpara{8mm}{1}Author, Citation. "Article Title."\\\textit{Magazine}. Publisher. Year of publication. date of access\vspace{1mm}}}}\\
+    \vspace{5mm}
+    \justifying
+    \textit{The following is excerpted from an article from a specific source.}\vspace{2.5mm}\\
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies arcu eros, vitae ultrices erat mattis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non nibh nulla. Etiam eu nibh tellus. Sed cursus venenatis elementum. Fusce vel venenatis felis. Suspendisse in suscipit augue. Donec molestie accumsan nisi nec congue. Praesent eu sem sapien. Morbi a lectus et lacus pulvinar tincidunt vitae nec diam.
+
+Cras faucibus tellus non orci porta accumsan. Cras in ultrices urna. Vivamus scelerisque massa quis sodales ultricies. Morbi viverra volutpat lorem ac aliquet. Aenean consectetur magna ante, sit amet dapibus arcu placerat laoreet. Pellentesque ultrices lacinia dui id consectetur. Maecenas volutpat, ex at placerat aliquam, lorem sem lacinia urna, iaculis dictum nisl nulla dapibus odio.
+
+Vestibulum in lacus hendrerit, semper enim a, tristique ex. Curabitur lectus sapien, placerat vitae lectus vitae, rutrum elementum neque. Quisque sit amet erat tincidunt nisl blandit aliquam. Nullam mauris diam, ornare ut magna vitae, accumsan semper diam. Nullam bibendum eros ut ante faucibus imperdiet. In euismod tortor condimentum, vulputate velit sit amet, ornare nunc. Aliquam scelerisque tincidunt massa, nec tristique lacus feugiat vitae. Sed non ex vitae lorem eleifend auctor.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies arcu eros, vitae ultrices erat mattis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non nibh nulla. Etiam eu nibh tellus. Sed cursus venenatis elementum. Fusce vel venenatis felis. Suspendisse in suscipit augue. Donec molestie accumsan nisi nec congue. Praesent eu sem sapien. Morbi a lectus et lacus pulvinar tincidunt vitae nec diam.
+Cras faucibus tellus non orci porta accumsan. Cras in ultrices urna. Vivamus scelerisque massa quis sodales ultricies. Morbi viverra volutpat lorem ac aliquet. Aenean consectetur magna ante, sit amet dapibus arcu placerat laoreet. Pellentesque ultrices lacinia dui id consectetur. Maecenas volutpat, ex at placerat aliquam, lorem sem lacinia urna, iaculis dictum nisl nulla dapibus odio.
+
+Vesibulum in lacus hendrerit, semper enim a, tristique ex. Curabitur lectus sapien, placerat vitae lectus vitae, rutrum elementum neque. Quisque sit amet erat tincidunt nisl blandit aliquam. Nullam mauris diam, ornare ut magna vitae, accumsan semper diam. Nullam bibendum eros ut ante faucibus imperdiet. In euismod tortor condimentum, vulputate velit sit amet, ornare nunc. Aliquam scelerisque tincidunt massa, nec tristique lacus feugiat vitae. Sed non ex vitae lorem eleifend auctor.
+    
+%\vfill
+%\begin{center}
+ %   © 2020 John D. Wilkes.\\
+  %  \vspace{20pt}
+   % -\textbf{\thepage}-
+%\end{center}
+{\newpage}
+\centering
+ %   \textbf{2020 AP\textsuperscript{\tiny{\circledR{}}} ENGLISH LANGUAGE AND COMPOSITION FREE-RESPONSE QUESTIONS}\\
+%lines 68-72 implement the citation and should be used with every new source.
+    \vspace{5mm}
+    {\fbox{\parbox{263pt}{\centering \textbf{Source B}\\ \vspace{2.5mm} \justifying \hangpara{8mm}{1}Author, Citation. "Article Title."\\\textit{Magazine}. Publisher. Year of publication. date of access\vspace{1mm}}}}\\
+    \vspace{5mm}
+    \justifying
+    \textit{The following is excerpted from an article from a specific source.}\vspace{2.5mm}\\
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies arcu eros, vitae ultrices erat mattis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non nibh nulla. Etiam eu nibh tellus. Sed cursus venenatis elementum. Fusce vel venenatis felis. Suspendisse in suscipit augue. Donec molestie accumsan nisi nec congue. Praesent eu sem sapien. Morbi a lectus et lacus pulvinar tincidunt vitae nec diam.
+
+Cras faucibus tellus non orci porta accumsan. Cras in ultrices urna. Vivamus scelerisque massa quis sodales ultricies. Morbi viverra volutpat lorem ac aliquet. Aenean consectetur magna ante, sit amet dapibus arcu placerat laoreet. Pellentesque ultrices lacinia dui id consectetur. Maecenas volutpat, ex at placerat aliquam, lorem sem lacinia urna, iaculis dictum nisl nulla dapibus odio.
+
+Vestibulum in lacus hendrerit, semper enim a, tristique ex. Curabitur lectus sapien, placerat vitae lectus vitae, rutrum elementum neque. Quisque sit amet erat tincidunt nisl blandit aliquam. Nullam mauris diam, ornare ut magna vitae, accumsan semper diam. Nullam bibendum eros ut ante faucibus imperdiet. In euismod tortor condimentum, vulputate velit sit amet, ornare nunc. Aliquam scelerisque tincidunt massa, nec tristique lacus feugiat vitae. Sed non ex vitae lorem eleifend auctor.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ultricies arcu eros, vitae ultrices erat mattis at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam non nibh nulla. Etiam eu nibh tellus. Sed cursus venenatis elementum. Fusce vel venenatis felis. Suspendisse in suscipit augue. Donec molestie accumsan nisi nec congue. Praesent eu sem sapien. Morbi a lectus et lacus pulvinar tincidunt vitae nec diam.
+Cras faucibus tellus non orci porta accumsan. Cras in ultrices urna. Vivamus scelerisque massa quis sodales ultricies. Morbi viverra volutpat lorem ac aliquet. Aenean consectetur magna ante, sit amet dapibus arcu placerat laoreet. Pellentesque ultrices lacinia dui id consectetur. Maecenas volutpat, ex at placerat aliquam, lorem sem lacinia urna, iaculis dictum nisl nulla dapibus odio.
+
+Vesibulum in lacus hendrerit, semper enim a, tristique ex. Curabitur lectus sapien, placerat vitae lectus vitae, rutrum elementum neque. Quisque sit amet erat tincidunt nisl blandit aliquam. Nullam mauris diam, ornare ut magna vitae, accumsan semper diam. Nullam bibendum eros ut ante faucibus imperdiet. In euismod tortor condimentum, vulputate velit sit amet, ornare nunc. Aliquam scelerisque tincidunt massa, nec tristique lacus feugiat vitae. Sed non ex vitae lorem eleifend auctor.
+
+%\vfill
+%\begin{center}
+ %   © 2020 John D. Wilkes.\\
+  %  \vspace{20pt}
+   % -\textbf{\thepage}-
+%\end{center}
+\end{document}
