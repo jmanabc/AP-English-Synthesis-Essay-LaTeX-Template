@@ -2,5 +2,5 @@
 A sloppy AP English essay prompt template.
 
 Created in Overleaf, compile with XeLaTeX for best results.
-All text is random lorum ipsum filler, replace with your own essay question.
+All text is random lorum ipsum filler, replace with your own essay question and sources.
 Citations are manual.
